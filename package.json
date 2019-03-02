@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/diaslucas/VideoMaker/issues"
   },
-  "homepage": "https://github.com/diaslucas/VideoMaker#readme"
+  "homepage": "https://github.com/diaslucas/VideoMaker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
